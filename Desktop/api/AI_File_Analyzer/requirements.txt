@@ -1,0 +1,13 @@
+# GitHub Actions — Windows bilan ishlash uchun o'rnatish
+customtkinter>=5.2.0
+python-dotenv>=1.0.0
+PyMuPDF>=1.23.0
+python-docx>=1.1.0
+openpyxl>=3.1.0
+requests>=2.31.0
+
+# AI API uchun
+# KIMI_API_KEY ni .env faylida o'rnating
+
+# Optional: PyInstaller .exe yaratish uchun
+# pip install pyinstaller
